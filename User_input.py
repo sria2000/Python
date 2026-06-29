@@ -1,4 +1,5 @@
 # Accept Multiple User inputs
+# Basic script to accept your firstname, lastname and age and print the values
 
 First_name = input("Enter Users first name ")
 Last_name = input("Enter Users last name ")
